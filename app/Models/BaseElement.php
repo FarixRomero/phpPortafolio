@@ -6,6 +6,4 @@ class BaseElement {
 
 
 
-asdsads
-
 }
