@@ -13,7 +13,7 @@ $jobs = [
     ]
 ];
 
-// $var1 = 1;
+// $var1 = 1;as
 // if($var1 > 2) {
 //   echo 'es mayor que 2';
 // } else {
