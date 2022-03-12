@@ -154,6 +154,7 @@ $jobs = [
                 <ul>
                     <li>Laravel</li>
                     <li>Bootstrap</li>
+                     <li>Bootstrap 5 lol </li>
                 </ul>
                 <h3 class="border-bottom-gray">Languages</h3>
                 <ul>
